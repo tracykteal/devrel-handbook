@@ -1,0 +1,80 @@
+project:
+  type: website
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Developer Relations Team Handbook template"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    search: true
+    background: light
+    right:
+      - icon: github
+        href: https://github.com/tracykteal/devrel-handbook
+        aria-label: GitHub source
+    left:
+      - text: "Github Orgs"
+        menu:
+          - text: "devrel-handbook"
+            icon: "github"
+            href: "https://github.com/tracykteal/devrel-handbook"
+  page-footer:
+      center:
+        - text: "About"
+          href: about.qmd
+      right:
+        - icon: github
+          href: https://github.com/tracykteal/devrel-handbook
+          aria-label: DevRel Handbook template GitHub
+
+  sidebar:
+    style: "floating"
+    collapse-level: 1
+    contents:
+      - mission.qmd
+      - section: "Culture"
+        contents:
+          - principles.qmd
+          - communications.qmd
+          - meetings.qmd
+      - section: "Planning"
+        contents:
+          - dor.qmd
+          - forecasting.qmd
+          - personas.qmd
+          - user-journeys.qmd
+          - analytics.qmd
+      - section: "How-tos"
+        contents:
+          - issue-triage.qmd
+          - videos.qmd
+          - blog-posts.qmd
+      - section: "Resources"
+        contents:
+          - resources-list.qmd
+      - section: "Career"
+        contents:
+          - section: "Onboarding"
+            contents:
+              - first-day.qmd
+              - first-month.qmd
+              - first-90-days.qmd
+              - first-project.qmd
+          - section: "DevRel Rubric"
+            contents:
+              - about-rubric.qmd
+      - about.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    title-block-banner: true
+    date-format: long
+    number-sections: false
+    description-title: "Status"
+    author-title: "Owner"

@@ -1,0 +1,12 @@
+---
+title: "Forecasting"
+author: "Al Manning, Charles Teague"
+description: Active
+date: 2022-09-08
+---
+
+## Forecasting as Project Milestones
+
+Forecasting is about how you plan your work. Do you have a roadmap, follow github issues, other approaches? It's good to both plan how you'll plan your work and communicate your plans to help manage expectations.
+
+This page is a work in progress. 

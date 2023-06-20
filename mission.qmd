@@ -1,0 +1,14 @@
+---
+title: "Mission"
+description: Draft
+date: ''
+---
+
+### Mission
+
+You might have a mission statement for your team! You can add that here.
+
+
+### Team
+
+Who's on your team

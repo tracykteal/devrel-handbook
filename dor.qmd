@@ -1,0 +1,100 @@
+---
+title: "Definition of Ready"
+author: "Tracy Teal"
+description: Draft
+date: ''
+---
+
+Work is considered Ready if it is ***Releasable***
+
+### Motivations
+
+If additional work is needed to make it releasable it isn't Ready. This means not only the project, but any documentation, communications or other things around it, as well as meeting what we've set as our quality standards for different types of projects.
+
+We intentionally don't just release or share things when they're 'perfect'. Often we want to share early stages of projects to get feedback or try things out. Most of the time our projects will always be 'in progress' where we're open to feedback, and we'll need to be making updates.
+
+So, rather than a "Definition of Done" we're going with a "Definition of Ready", meaning we're ready to share publicly and the resource has met certain expectations we have for things that we share.
+
+This is about going through these checklist for the current stage of the project and plans for this release! We rarely, if ever, will release something only at a 1.0 type phase. This ensures we're checking for key elements, and also give us confidence in releasing things in alpha or pilot stages, so we can release and revise.
+
+Types of content we create include:
+
+-   documentation
+-   blog posts
+-   web sites
+-   videos
+-   lessons
+-   code
+-   social media
+
+### Categories we review for Ready
+
+-   Accessibility
+-   Style
+  - Cultural inclusiveness
+  - Style guide
+-   Communications plan
+-   Relevant documentation
+-   Plan for hearing feedback
+-   What does success look like
+-   Internal review
+
+## Accessibility
+
+-   [ ] Alt text for all charts and images
+    - [ ] Text for images is descriptive and relevant to the context [Tips on writing good alt text](https://axesslab.com/alt-texts/)
+    - [ ] For purely decorative images use `alt=""`
+    - [ ] Add alt text in code chunks with `fig-alt`
+-   [ ] Good semantic markup practices
+    - [ ] Use headings to outline your content, i.e. use headings in their proper order
+    - [ ] Don't use headings to only change font size or style
+-   [ ] Use unique, descriptive text in links
+-   [ ] Check that color contrast meets WCAG 2.0 AA standards
+    - [ ] Run axe devtools and scan page and check for text color contrast issues
+    - [ ] Where possible use color blind friendly scales, like `ggthemes::scale_color_colorblind()`
+    - [ ] Check for color blind friendliness in charts with e.g.  [SimDaltonism](https://michelf.ca/projects/sim-daltonism/) 
+-   [ ] If you encounter accessibility issues with a theme or framework, file a relevant issue (especially if they're our tools)
+
+### Assorted media considerations
+
+-  [ ] Use CamelCase in hashtags
+-  [ ] Include accurate captions with videos
+
+## Cultural inclusiveness
+
+-   [ ] Check for regional idioms
+-   [ ] Don't use seasons since they're not the same in Northern and Southern hemispheres
+
+## Communications plan
+
+-   [ ] Who is the audience for this resource?
+-   [ ] Where will you share about it?
+-   [ ] What will you say to different audiences?
+-   [ ] Are the people who manage different communications channels aware of needs/timelines?
+
+## Relevant Documentation
+
+-   [ ] Is this a resource that requires documentation?
+-   [ ] Is documentation needed for using the resource?
+-   [ ] Is documentation needed for creating or maintaining the resource?
+
+## Plan for hearing feedback
+
+-   [ ] Do you want or need feedback on this resource?
+-   [ ] Do you want feedback from a particular set of people first? Does this affect how you release it?
+-   [ ] How/where will people share their feedback?
+-   [ ] How/where will you respond to feedback?
+-   [ ] Do you anticipate particular types of feedback? Is there something to plan for?
+
+## What does success look like
+
+-   [ ] What are the goals for this release?
+-   [ ] Are there useful metrics?
+-   [ ] Can you collect the information you need to evaluate if you're meeting the goals?
+-   [ ] Can you analyze the information?
+
+## Internal review
+
+-   [ ] Did you want anyone to review or read through?
+-   [ ] If so, what feedback/review is useful?
+-   [ ] Is there already a review workflow for this type of resource? If so, you can use that!

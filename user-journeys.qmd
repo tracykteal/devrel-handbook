@@ -1,0 +1,9 @@
+---
+title: "User Journeys"
+description: Example user journeys  
+date: ''
+---
+
+A complement to Personas are User Journeys. These are some examples and how to create them.
+
+This page is a work in progress. 

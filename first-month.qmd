@@ -1,0 +1,18 @@
+---
+title: "First Month"
+author: "Al Manning"
+description: Draft
+date: 2022-09-23
+---
+
+### Goal
+
+Through your [First Project](first-project.qmd) and continued learning you will start getting a better sense of the team and discover more of your role. You will also start to get a sense of how our team relates to the company at large.
+
+### Tasks
+
+-   Discuss with your manager: [Minimum four weeks vacation policy](https://rstudiopbc.atlassian.net/wiki/spaces/PEO/pages/36506752/Paid+Time+Off+PTO)
+-   Complete your [First Project](first-project.qmd) with your buddy
+-   Watch [Hello Quarto: Share • Collaborate • Teach • Reimagine](https://www.rstudio.com/conference/2022/keynotes/collaborate-with-quarto/)
+-   Find us in the [Open Source Group](https://rstudiopbc.atlassian.net/wiki/spaces/OPESOUGRO/overview) and add your name to our group
+-   Check out and attend your first [AMA, Virtual Donut, Virtual Coffee, Board Readouts](https://docs.google.com/document/d/115FzeIsbga04ajesN_WonU4ThXp9uQTP1jGP7pIUUqI/edit)

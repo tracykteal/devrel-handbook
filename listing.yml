@@ -1,0 +1,33 @@
+
+
+- title: Culture
+  links:
+    - text: Principles
+      href: principles.qmd
+    - text: Communications
+      href: communications.qmd
+    - text: Meetings
+      href: meetings.qmd
+
+
+- title: Planning
+  links:
+    - text: Definition of Ready
+      href: dor.qmd
+    - text: Forecasting
+      href: forecasting.qmd
+    - text: Personas
+      href: personas.qmd
+    - text: User Journeys
+      href: user-journeys.qmd
+    - text: Analytics
+      href: analytics.qmd
+
+- title: How-tos
+  links:
+    - text: Videos
+      href: videos.qmd
+    - text: Blog posts
+      href: blog-posts.qmd
+
+

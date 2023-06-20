@@ -1,0 +1,12 @@
+- source: project
+  connect:
+    - id: 00ae805d-d26b-4246-9284-eeae3be335f9
+      url: 'https://connect.rstudioservices.com/content/00ae805d-d26b-4246-9284-eeae3be335f9/'
+  confluence:
+    - id: '159186949'
+      url: 'https://rstudiopbc.atlassian.net/wiki/spaces/OPESOUGRO/pages/159186949'
+    - id: '13500449'
+      url: 'https://allenmanning.atlassian.net/wiki/spaces/QUARTOCONF/pages/13500449'
+  quarto-pub:
+    - id: ffaaa4d0-387c-498c-91fd-a2a96bc9c279
+      url: 'https://quartopub.com/sites/tracykteal/devrel-handbook'

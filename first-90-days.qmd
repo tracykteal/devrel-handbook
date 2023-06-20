@@ -1,0 +1,19 @@
+---
+title: "First 90 Days"
+author: "Al Manning"
+description: Draft
+date: 2022-09-23
+---
+
+### Goal
+
+Gradually you will continue to learn and grow always feeling the support, safety, and consultation from the team and your manager. You may also start developing a greater sense of the multi-team context that you are working in as well as the community we are serving.
+
+### Tasks
+
+-   Watch [Announcing RStudio, PBC](https://rstudiopbc.atlassian.net/l/cp/H72RR16E)
+-   Watch [RStudio: 2022 and Beyond](https://www.rstudio.com/conference/2022/keynotes/rstudio-2022-beyond/)
+-   Locate [Company Meeting Recordings](https://rstudiopbc.atlassian.net/wiki/spaces/RSTUPD/pages/36408016/Company+Meetings+Recordings)
+-   Locate [Learning and Development](https://rstudiopbc.atlassian.net/wiki/spaces/PEO/pages/36310113/Learning+and+Development)
+-   Locate [Diversity, Equity, Inclusion, and Accessibility](https://rstudiopbc.atlassian.net/wiki/spaces/PEO/pages/66060740/Diversity+Equity+Inclusion+and+Accessibility+at+RStudio)
+-   Check out the [Team Dashboard](https://rsc.radixu.com/RStudio-teams/RStudio-Dashboard.html)

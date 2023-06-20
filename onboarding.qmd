@@ -1,0 +1,19 @@
+---
+title: "First Week"
+author: "Al Manning"
+description: Active
+date: 2022-09-23
+---
+
+### Goal
+
+Your first week will primarily be focused on learning and meeting new people. You will attend your first team meetings.
+
+### Tasks
+
+-   Ensure you are invited to the Company Onboarding Session
+-   Continue setting up your laptop
+-   Locate the [New Hire On-boarding Resource List](https://rstudiopbc.atlassian.net/l/cp/K3aZpP1i)
+-   Review your [Home Office & Co-Working Space Policy](https://rstudiopbc.atlassian.net/wiki/spaces/FIN/pages/36113378/Home+Office+Co-Working+Space)
+-   Review [RStudio Open Source Team Onboarding](https://docs.google.com/document/d/1zGY5JEZDsQ9Zi26pmqtsJM-GL_Uoj_bS1FANtX9fnPk/edit#heading=h.mwbfkl2d4xg5)
+-   Start your [First Project](first-project.qmd) with your buddy

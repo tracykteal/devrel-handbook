@@ -1,0 +1,150 @@
+---
+title: "Principles"
+description: Drafting
+date: ''
+---
+
+# Guiding Principles
+
+Guiding principles are meant to be living tenets that guide a team's everyday work and interactions, and their short- and long-term goals. Guiding principles should be developed by each team through a collaborative process. Information on potential processes will be added to this document. 
+
+The Example Guiding Principles below were developed by Mara Averick, Mine Cetinkaya-Rundel, Greg Swinehart, Tracy Teal, Andy Teucher, and Charlotte Wickham for RStudio/Posit. 
+
+
+
+## Example Guiding Principles
+
+Our developer relations principles are living tenets that guide our everyday work and interactions, and our short- and long-term goals. We use them to decide what to work on, how we work with each other, and what to create, share, and maintain. Our philosophies are: Listen and Adapt, Share Openly, Learn Continually, Intentionally Include, Empower One Another, and Build Purposefully.
+
+### **Listen and Adapt**
+
+We seek out and listen to ideas and insights from diverse stakeholders, synthesizing what we hear to adapt our work and priorities. 
+
+::: {.callout-tip collapse="true"}
+
+## This looks like:
+
+- Seeking out feedback from diverse stakeholders
+- Listening to feedback with curiosity
+- Synthesizing what we hear to make decisions about what we work on, we don\'t work on everything that we hear, but gather it into a set of things we\'ve heard
+- Set priorities, but we can be agile on priorities and approaches as needed
+- We are humble and always know we have things to learn
+
+:::
+
+
+### **Share Openly**
+
+We create and share open resources, promote and share resources from others, and work to make it easier to create and share open learning resources. 
+
+::: {.callout-tip collapse="true"}
+
+## This looks like:
+
+-   Content we create is openly licensed
+
+-   We share resources other people create about our open source tools
+
+-   We aim to be aware of community resources, while also knowing we won\'t uniquely have a comprehensive perspective and may miss some resources
+
+-   We aim to share resources developed by diverse stakeholders
+
+-   We create infrastructure that allows others to create and share open resources
+
+-   We don\'t have all the answers, and value/turn to/recommend the wisdom of the community
+
+-   We\'re open about what we know and what we don\'t know, and you can trust us to answer to the best of our ability 
+
+:::
+
+### **Learn Continually**
+
+We are always learning, including about new tools, existing tools, pedagogy and ways of working, and encourage and support continuous learning by others.
+
+::: {.callout-tip collapse="true"}
+
+## This looks like:
+
+-   Learning about and working with features or changes in new releases
+
+-   Using our tools in projects to learn new ways of doing things and stay in practice with how our tools work
+
+-   Learning about the best ways to develop and share learning resources
+
+-   Creating resources that allow ongoing learning for learners
+
+-   Creating structures and pathways that allow learners to find and use our learning resources
+
+-   Creating learning for all levels 
+
+-   Creating materials that people can learn or teach from 
+
+-   Always be learning. There\'s no better way to understand the needs of learners than to be one yourself. This means learning more both about the tools we create, and about the practices of \"developer relations\". Also always be learning about what of our content works and who our programs work.
+
+:::
+
+### **Intentionally Include**
+
+We intentionally work to build inclusive practices into the work we do, using, and continuing to learn, evidence-based inclusive and accessible practices.
+
+::: {.callout-tip collapse="true"}
+
+## This looks like:
+
+-   Resources we create meet accessibility guidelines
+
+-   We advocate for accessibility in our tools
+
+-   We continue to learn about inclusive and accessible practices, recognizing that this is work that\'s never done  
+
+-   We use culturally-responsive inclusive meeting practices in our community meetings and spaces
+
+-   Our priority is to create inclusive spaces, which may mean excluding people who make spaces less safe
+
+-   Value and say thank you for diverse contributions that aren\'t just code
+
+-   Value and say thank you to people in the way they want to be thanked
+
+-   Demonstrate through our behavior and interactions that we believe there are myriad ways of contributing to and being part of our open-source community (e.g. that we value contributions in forms beyond a reductive lens of GitHub commits, etc.). Developing tools that allow people to acknowledge other contributions. 
+
+-   We invite people to contribute in ways that aren\'t code
+
+-   We create and maintain pathways that allow people to contribute in various ways
+
+:::
+
+### **Empower one another**
+
+We support each other as a team, and within the community, and strive to empower people to create resources and use our tools to answer the questions that are important to them. \
+
+::: {.callout-tip collapse="true"}
+
+## This looks like:
+
+-   Share other people\'s work 
+
+-   Celebrate successes of people using our tools
+
+-   Advocate for the needs of the broader user and developer base within our internal developer teams (this means both getting feedback from users, and helping to ensure that the needs of various personas are accounted for in the software development cycle)
+
+-   Working together inclusively as a team and supporting each other. 
+
+-   Empathetic to the user experience
+
+-   We do not need to create all the things
+
+:::
+
+### **Build Purposefully**
+
+We are purposeful in what we develop with a commitment to maintain the resources we create so that they are reliable and trustworthy. 
+
+::: {.callout-tip collapse="true"}
+
+## This looks like:
+
+-   Reliable - materials up-to-date and regular 
+
+-   Structure - focus on an effective and helpful structure as well as the materials. Creating an environment where the focus is not solely on content creation. Reflecting on the navigability of extant resources, and pruning when and where needed to make life easier.
+
+:::

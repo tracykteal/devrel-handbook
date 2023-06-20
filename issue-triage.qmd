@@ -1,0 +1,12 @@
+---
+title: "Issue Triage"
+date: ''
+---
+
+## Issue Triage
+
+How will you do issue triage or respond to issues on your dev rel team?
+
+What labels do you use for issues, who has what role?
+
+This page is a work in progress.

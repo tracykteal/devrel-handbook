@@ -1,0 +1,7 @@
+---
+title: "Resources List"
+description: Draft
+date: ''
+---
+
+You probably have a set of resources that are useful for your team. You can use just this resources list page and list them here. Or they might be things you want to develop as their own pages, and then you can create a page and add them to the _quarto.yml file to add them to the index.

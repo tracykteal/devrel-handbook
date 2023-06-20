@@ -1,0 +1,20 @@
+---
+title: "First Day"
+description: Active
+date: 2023-01-11
+---
+
+Welcome to Open Source Developer Relations! 
+
+We are here to support you during your onboarding journey. As some one who works in Developer Relations, you will have a primary team, like tidyverse, Quarto or Shiny, where you'll be figuring out what projects to work on and learning and sharing about those tools. You will also be a member of the Developer Relations 'squad', a set of folks who are working in Developer Relations in open source at Posit, so we can develop and share ways of working, infrastructure, ideas and support. 
+
+### Goal
+
+To have a first day where you feel welcomed and supported; establish clear lines of communications to a few people that are available and can help guide you.
+
+### Tasks
+
+-   Go through onboarding with your team, and company onboarding
+-   Go through Open Source onboarding
+-   Join and be welcomed on our main [Slack channels](communications.qmd)
+-   Ensure you are invited to all [team meetings](https://connect.rstudioservices.com/quarto-team-han)

@@ -1,0 +1,45 @@
+---
+title: "Communications"
+description: Draft
+date: ''
+---
+
+What are your team expectations for communication with each other? Where do you communicate? What are the expectations on response times. 
+
+
+## Some Potential Guiding Principles
+
+-   Open: We encourage all forms of feedback and information. We as a team want to place the minimum burden on those who want to reach out to us.
+
+-   Office Hours: No response is ever expected outside of an individual's own working hours.
+
+-   Public / Private Ok: We see the advantages of public Slack chat and also recognize the importance of less visible channels if folks feel more comfortable chatting directly.
+
+## Channels And Cadences
+
+### Company Internal
+
+-   Slack: We request all forms of communication be sent to our Slack channels. Feel free to use either or both:
+
+  - list of Slack channels
+
+-   Timeliness: If a response is needed in a particular time-frame we request that this be added to the message.
+
+-   Random: For interesting stuff to share where no response is needed feel free to use X channel
+
+-   Email: We prefer Slack over email for questions
+
+-   Style: We have no message style guide at this time.
+
+### Public
+
+-   GitHub
+-   Public forums
+
+## Motivations
+
+-   Clearly define lines of communication
+
+-   Clearly establish expectations on responsiveness
+
+-   Inspired by [Your Team Needs a Comms Manual](https://medium.com/on-human-centric-systems/your-team-needs-a-comms-manual-81d13402d165)

@@ -1,0 +1,88 @@
+---
+title: "Personas"
+description: Example personas
+date: ''
+---
+
+> Personas are fictional characters, which you create based upon your research in order to represent the different user types that might use your service, product, site, or brand in a similar way. Creating personas helps the designer to understand users’ needs, experiences, behaviors and goals. - [Interaction Design](https://www.interaction-design.org/literature/topics/personas#:~:text=Personas%20are%20fictional%20characters%2C%20which,%2C%20experiences%2C%20behaviors%20and%20goals)
+
+Personas should be created based on observations and data collection about people. This is just a very rough draft.
+
+This page is a work in progress.
+
+## Things to know about our personas
+
+- Motivations 
+- Goals
+- Frustrations
+- Data types
+- Environment in which they operate
+- Data restrictions
+- Skills
+- Access
+
+## Example persona
+
+### Academic researcher
+
+#### Motivation
+
+I have research questions I want to answer and have been gathering data related to those topics, have access to data
+or am getting it from online resources. I need to analyze this data, be able to share and reproduce results. I need 
+to try out different workflows and approaches as a part of my work. I have some domain specific types of data 
+analysis that I need to do. I want to focus on my research and not have to spend too much time figuring out 
+my tooling. I also need to teach students in the classroom or people in my lab about data analysis and good practices.
+
+#### Goals
+
+- Analyze my research data
+- Share results 
+- Be able to reproduce results and document methods
+- Work with collaborators and students
+- Teaching data skills in the classroom
+- Use tools that 'just work'
+
+#### Frustrations
+
+- Spending a lot of time on installation 
+- Spending a lot of time 'learing coding'
+- Spending a lot of time developing materials to teach data skills
+- Tools that people use aren't well documented
+- Things change and hard to stay current
+- 'Best practices' for coding / data science / reproducibility not clear
+- Not clear what things to learn to 'level up'
+
+#### Data types
+
+There are many different data types in academic research. A few
+- Tabular data (a lot of this)
+- Text data
+- Image data
+- Genomic data
+- Data from scientific instruments 
+
+Someone working with Very Large Data, like for instance astronomy data, might be its own persona.
+
+#### Environment 
+
+University or college with not a lot of money or resources for software. May have access to high performance 
+computing resources, but might not know how to use them. Need to use things for themselves, and also be tools
+that other people can use. There are probably not restrictions on the tools people can choose to use and computers 
+aren't 'locked down'. 
+
+#### Data restrictions
+
+May have some Personally Identifiable Information. HIPPA data should probably be its own persona.
+
+#### Skills
+
+This will vary, but mainly people are self-taught. So, they are learning to use the tools, but probably 
+didn't take courses in data sciance or computer science. May have done some coding in a statistics class.
+
+Within this person we should maybe have a 'getting started' and a 'coding for awhile' version.
+
+#### Access
+
+Likely have a reasonably good computer and access to the internet. This will vary though. Perhaps limited access is
+another version of this persona. 
+

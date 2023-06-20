@@ -1,0 +1,20 @@
+---
+title: "First Project"
+author: "Al Manning"
+description: Draft
+date: 2022-09-22
+---
+
+# Context
+
+Working with your onboarding buddy will be structured around one more more onboarding projects. These will be your first projects with the team.
+
+# Project Expectations
+
+-   Learning and collaboration will be the primary focus of these projects
+
+-   This sets the context to explore the team's projects and how we work
+
+-   Your work will not be evaluated based on any sort of performance, grade, or expected level of impact
+
+-   We want these projects to be an enjoyable way for your to ease yourself into our community

@@ -1,0 +1,9 @@
+---
+title: "Blog Posts"
+description: Draft
+date: ' '
+---
+
+Does your dev rel team write blog posts? How do they do it.
+
+This page is a work in progress. 

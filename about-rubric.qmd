@@ -1,0 +1,9 @@
+---
+title: "About DevRel Rubric"
+description: Active
+date: ''
+---
+
+The job of someone in developer relations requires many different skills, abilities and perspectives. That can make it hard to define the role, figure out what skills you might want to develop and even advance in your role. These are some ideas of skills and perspectives people working in developer relations have and how they can grow in different areas. 
+
+This is from work done in open source at Posit, particularly Al Manning, Andrew Holz, Mara Averick, Tracy Teal and Andy Teucher.

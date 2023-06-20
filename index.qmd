@@ -1,0 +1,22 @@
+---
+title: "Developer Relations Team Handbook template"
+subtitle: Work Design, Ways of Working, Practices
+page-layout: article
+anchor-sections: false
+search: false
+number-sections: false
+listing:
+  id: guide-links
+  template: links.ejs
+  contents: listing.yml
+---
+
+::: {#guide-links .column-screen-inset-right style="max-width: 850px;"}
+:::
+
+```{=html}
+<!-- ::: callout-note
+//TODO move to navbar and footer
+
+::: -->
+```
