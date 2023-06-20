@@ -31,3 +31,18 @@
       href: blog-posts.qmd
 
 
+- title: Career
+  links:
+    - text: Onboarding
+      href: onboarding.qmd
+    - text: Career Skills
+      href: about_career_skills.qmd
+    - text: Communications
+      href: devrel_communications.qmd
+    - text: Product
+      href: devrel_product.qmd
+    - text: Engineering
+      href: devrel_engineering.qmd
+    - text: Leadership
+      href: devrel_leadership.qmd
+

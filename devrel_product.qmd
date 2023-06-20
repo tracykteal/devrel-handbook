@@ -1,0 +1,68 @@
+---
+title: "Career Product"
+description: Draft
+date: ''
+---
+
+<table class="my-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Established</th>
+      <th>Advanced</th>
+      <th>Expert</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>User Focus	</b></td> 
+      <td><div class="pill-container yellow">Understand the Who	</div></td>
+      <td><div class="pill-container green">Deep User Empathy	</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Storytelling</b></td>
+      <td><div class="pill-container yellow">Understand the Why</div></td>
+      <td><div class="pill-container green">Strong Storyteller</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Domain Knowldge</b></td>
+      <td><div class="pill-container yellow">Domain Familiarity</div></td>
+      <td><div class="pill-container green">Strong Domain Knowledge</div></td>
+      <td><div class="pill-container blue">Domain Expert</div></td>
+    </tr>
+    <tr>
+      <td><b>Vision</b></td>
+      <td></td>
+      <td><div class="pill-container green">Competitive Landscape</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td></td>
+      <td><div class="pill-container green">See Needs Users Don’t	</div></td>
+      <td><div class="pill-container blue">Strategist</div></td>
+
+    </tr>
+  </tbody>
+</table>
+<br>
+
+<div class="box">
+  <ul>
+    <li>**Established**:  All OS developer advocates and developer educators will demonstrate or quickly grow into established expertise in these important areas. </li>
+    <li>**Advanced**: All OS developer advocates and developer educators will develop multiple advanced skills over time. It is _not_ expected any single individual master all advanced skills, but rather to build a portfolio of advanced skills that fits their own professional goals and their team's needs.</li>
+    <li>**Expert**: Posit developer advocates and developer educators who demonstrate expert mastery of skills will be rare, and these are intended to identify truly exceptional proficiency.</li>
+  </ul>
+</div>
+<br>
+
+Evaluate this category together. What makes sense her for dev rel? How do we incorporate user testing ideas?
+
+| Skill/Aptitude | Established | Advanced | Expert |
+|----------------|:---------------------|:----------------|:----------------|
+| **User Focus** | **Understand The Who** <br> You work to find and understand the user's challenges and prioritize ways to support them in their learning and success. | **Deep User Empathy and Knowledge** <br> You work to understand different types of users and how their needs differ. You work to gain insight into what they need, not just what they ask for. You create and share artifacts about your insights into different user needs with others. You have delved into the domain knowledge users bring or have been a practitioner in a past role and work to keep your knowledge current. |        |
+| **Storytelling** | **Understand The Why** <br> Your understanding of user journeys spans not just a feature and how it is used but also crosses boundaries between groups and products.  You have an understanding of how the solution you are working on fits with other open source and commercial tools.  You work to capture that understanding, providing context to others in stories and planning. | **Storyteller** <br> You are a storyteller who can synthesize user needs, features, and solutions into compelling communications internally (teammates and stakeholders) as well as the wider community. These stories help not just the understanding of the most critical work but align people around accomplishing it.  |        |
+| **Vision** |  | **Deep Comprehension of Competitive Landscapes** <br> You have built and can provide insights into one or more complex competitive landscapes. Your knowledge of competitive solutions is deep and involves engagement with all the leading solutions in the space. Your understanding also goes beyond obvious competitors to potential homegrown solutions or common workarounds.  You have processes in place to maintain your understanding and track emergent competitors.  | 
+|  |  | **Understand What Users Don't Know They Need** <br> You have the unique ability to look well beyond what the users have asked for and can provide a compelling vision for what they really need to solve their real challenges. | **Product Strategist** <br> This ability combines a deep understanding of the domain landscape with an understanding of the true unspoken needs of the user.  Finally, you are able to simplify this need to its most essential form as a clear vision for what needs to be. You have demonstrated the ability to build and communicate a vision that compels a segment of the market to use a new tool and change the way they work.  |

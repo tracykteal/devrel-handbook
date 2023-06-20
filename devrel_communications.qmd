@@ -1,0 +1,79 @@
+---
+title: "Career Communications"
+description: Draft
+date: ''
+---
+
+<table class="my-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Established</th>
+      <th>Advanced</th>
+      <th>Expert</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Written</b></td> 
+      <td><div class="pill-container yellow">Good Communicator</div></td>
+      <td><div class="pill-container green">Strong Writer</div></td>
+      <td><div class="pill-container blue">Foundational Work Author</div></td>
+    </tr>
+    <tr>
+      <td><b>Verbal</b></td>
+      <td><div class="pill-container yellow">Effective Presenter</div></td>
+      <td><div class="pill-container green">Strong Presenter</div></td>
+      <td><div class="pill-container blue">Sought-after Speaker</div></td>
+    </tr>
+    <tr>
+      <td><b>Community</b></td>
+      <td><div class="pill-container yellow">Responsive</div></td>
+      <td><div class="pill-container green">Proactive and Encouraging</div></td>
+      <td><div class="pill-container blue">Community Leadership</div></td>
+    </tr>
+    <tr>
+      <td><b>Knowledge Sharing</b></td>
+      <td><div class="pill-container yellow">Understand and Share</div></td>
+      <td><div class="pill-container green">Domain Guide</div></td>
+      <td><div class="pill-container blue">Domain Leadership</div></td>
+    </tr>
+    <tr>
+      <td><b>Learning Resources</b></td>
+      <td><div class="pill-container yellow">Resource Creator</div></td>
+      <td><div class="pill-container green">Resource Creator 2</div></td>
+      <td><div class="pill-container blue">Resource Creator 3</div></td>
+    </tr>
+    <tr>
+      <td><b>Teaching Practices</b></td>
+      <td><div class="pill-container yellow">Instructor</div></td>
+      <td><div class="pill-container green">Instructor 2</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Getting Things Done</b></td> 
+      <td><div class="pill-container yellow">Knowing when to Ship</div></td>
+      <td><div class="pill-container green">Shipping Orchestrator</div></td>
+      <td><div class="pill-container blue">Program Developer</div></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+<div class="box">
+  <ul>
+    <li>**Established**:  All OS developer advocates and developer educators will demonstrate or quickly grow into established expertise in these important areas. </li>
+    <li>**Advanced**: All OS developer advocates and developer educators will develop multiple advanced skills over time. It is _not_ expected any single individual master all advanced skills, but rather to build a portfolio of advanced skills that fits their own professional goals and their team's needs.</li>
+    <li>**Expert**: Posit developer advocates and developer educators who demonstrate expert mastery of skills will be rare, and these are intended to identify truly exceptional proficiency.</li>
+  </ul>
+</div>
+<br>
+
+| Skill/Aptitude | Established | Advanced | Expert |
+|---------|:---------------------|:----------------|:----------------|
+| **Writing** | **Good Communicator** <br> You write and incorporate feedback so that you usually communicate effectively, clearly, concisely, and in an audience-oriented way on both technical and non technical subjects. Your writing is regular, but not frequent, and may be focused on communications with your team and/or external facing. | **Strong writer** <br> You consistently communicate with external stakeholders, providing accurate and helpful information. You write blog posts or other longer forms of written communication as ways of disseminating information about your work and the work of the team. Your written communications can take the form of either socially-focused or technically-focused content and include story-focused (the big picture, context, motivation) or process-focused ("how do I code that"?) work.  You can communicate on complex topics with clarity. You center user empathy and accessibility in your communication.  | **Foundational Work Author** <br> You communicate extensively with external stakeholders, developing and disseminating a variety of written communications, including books and longer form communications. You consistently receive positive feedback from users about the usefulness and clarity of the resources you create. Your written resources are referenced frequently as key materials or references in your area of expertise. You center user empathy and accessibility in your communication. |
+| **Speaking** | **Effective Presenter** <br> You can present effectively about your work in presentations in team meetings or informal settings. | **Strong Presenter** <br> You consistently communicate with external stakeholders through presentations, discussions, and videos. <br>You are regularly invited to give talks and receive positive feedback on your presentations.<br> You are familiar with good speaking practices, including use of a narrative format, slide formats, strategies for engaging talks, and talk logistics, such as how to use a microphone, and use them consistently in your presentations. <br>You can communicate on complex topics with clarity and center user empathy and accessibility in your communications.   | **Sought-after Speaker** <br> You regularly give presentations and participate in discussions and interviews. <br> You are sought after as an expert in your field. Recordings of your presentations are shared broadly and considered seminal in your space. <br> You are invited to give high stakes presentations. |
+| **Community** | **Responsive** <br> You are responsive, accurate, and welcoming in your communications with community members in GitHub issues and PRs for the packages that you work on. <br>You follow team guidelines for communications processes and practices.<br> You sometimes engage in other forms of communication with the community through such venues as social media and Posit Community. | **Proactive and Encouraging** <br> You respond to issues and community questions related to your packages and to questions regarding the broader ecosystem within which you work.<br> You consistently engage with the community through forums and social media and proactively post and share information. <br> You are consistently user-centered and inclusive, and through your communication style and/or activities encourage people to participate in the community.   | **Community Leadership** <br> You develop and manage a community channel or set of events with an inclusive and welcoming approach, creating structure for effective facilitation and engagement. You have clear goals around outcomes of the community activity, and consistently evaluate program success.You are trusted by the community and can moderate, or support moderators, and facilitate conflict resolution. |
+| **Knowledge Sharing** | **Understand and Share** <br> You actively work to gain understanding and knowledge in your area of work. You proactively ask questions of teammates and share knowledge and learnings with others. <br> You actively listen to others and are open to receiving feedback.   | **Domain Guide** <br> You understand your team's domain and share your knowledge frequently with your teammates. You watch out for opportunities to share knowledge and encourage others to do the same. <br> You consistently communicate effectively, clearly, concisely, and in an audience-oriented way in written and verbal form, on both technical and non-technical subjects with your teammates and across teams. <br> You take leadership on creating team-oriented knowledge resources. <br>You actively listen to others and are open and responsive to receiving feedback in developing these resources. | **Domain Leadership** You are the expert on a topic and guide the development of our resources or strategic approach in that space across teams and departments. You seek out and effectively engage in cross-team collaborations that involve this topic, and your perspective is sought out when relevant. You contribute to end-to-end solutions in this area. You may communicate externally around this topic as well. |
+| **Learning Resources** | **Resource Creator** You develop documentation, videos, presentations, blog posts, cheatsheets, guides or lessons that teach people how to use our tools. You incorporate accessibility into the creation of your resources and good practices for content structure for effective learning.  | **Resource Creator 2** You develop more than one type of instructional materials that are widely referenced and used. You incorporate effective pedagagical practices throughout your materials. You understand how different platforms for sharing materials are used and discovered, and adapt your materials to match the platform or channel. You set goals for the impact of the materials and consistently meet those goals. | **Resource Creator 3** You develop instructional materials considered to be canonical resources. Your materials are aligned around a program or theme, and there is demonstrated impact of your materials in that area. Your materials are widely used or referenced by other instructors.| 
+| **Teaching Practices** | **Instructor** You are aware of, and usually use, effective pedagogical teaching practices. You can adapt learning goals from related materials and usually meet your goals. You can adapt existing assessment materials that allow you to evaluate the effectiveness of your teaching. | **Instructor 2** You use effective pedagogical and culturally-responsive teaching practices. You consistently incorporate active learning and formative assessment into your teaching. You can develop short and long term learning goals for the materials you're teaching and consistently meet those goals. You can develop new formative and cumulative assessments. | **Instructor 3** | 
+| **Getting Things Done** | **Know when to Ship** <br> You have an appropriate bias towards shipping.<br> You appropriately timebox exploratory efforts, focus on meeting the goal of releases, and hit most of the time.  | **Shipping Orchestrator** <br> You appropriately rescope your work or project when needed.<br> You help ensure multiple synchronized releases happen together when dependencies demand it. You avoid rabbit holes and bloated, slow, or unnecessarily complex releases.<br> If a target is going to be missed dramatically, you have socialized with your team and any stakeholders the reasons and tradeoffs being made.  | **Program Developer** You develop and lead programmatic efforts that involve multiple projects and indidivuals. You develop and keep things on a timeline. You develop program goals and work to meet those goals with program deliverables. You consistently evaulate the effectiveness of program activities and adapt timelines or projects when needed. |

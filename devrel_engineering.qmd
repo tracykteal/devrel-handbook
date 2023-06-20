@@ -1,0 +1,68 @@
+---
+title: "Developer Relations Engineering"
+author: "Andrew Holz"
+description: Engineering skills are a key component to being in developer relations to allow us to effectively connect and work with users and contribute to our open source materials.  [Read more](/devrel_advancement.html#mapping-skills-to-progression) about how these skills map to career progression.  
+date: '' 
+page-layout: full
+format: 
+  html:
+    css: styles.css
+---
+
+<table class="my-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Established</th>
+      <th>Advanced</th>
+      <th>Expert</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Writing Code</b></td> 
+      <td><div class="pill-container yellow">Effective Coder</div></td>
+      <td><div class="pill-container green">Solid Developer</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Problem Solving</b></td> 
+      <td><div class="pill-container yellow">Individual Troubleshooter</div></td>
+      <td><div class="pill-container green">Effective Troubleshooter</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Documentation</b></td> 
+      <td><div class="pill-container yellow">Documentation Contributor</div></td>
+      <td><div class="pill-container green">Good Documenter</div></td>
+      <td><div class="pill-container blue">Guide Builder</div></td>
+    </tr>
+    <tr>
+      <td><b>Open Source Maintainer</b></td> 
+      <td><div class="pill-container yellow">Package Contributor</div></td>
+      <td><div class="pill-container green">Package Maintainer</div></td>
+      <td></td>
+    </tr>
+  </tbody>
+  
+</table>
+
+<br>
+
+<div class="box">
+  <ul>
+    <li>**Established**:  All OS developer advocates and developer educators will demonstrate or quickly grow into established expertise in these important areas. </li>
+    <li>**Advanced**: All OS developer advocates and developer educators will develop multiple advanced skills over time. It is _not_ expected any single individual master all advanced skills, but rather to build a portfolio of advanced skills that fits their own professional goals and their team's needs.</li>
+    <li>**Expert**: Posit developer advocates and developer educators who demonstrate expert mastery of skills will be rare, and these are intended to identify truly exceptional proficiency.</li>
+  </ul>
+</div>
+
+
+<br>
+
+| Skill/Aptitude | Established | Advanced | Expert |
+|---------|:---------------------|:----------------|:----------------|
+| **Writing Code** | **Effective Coder** <br> You are able to write code for data science analyses and/or package development. You are aware of, and usually use, good coding practices and current tools. | **Solid Developer** <br> You demonstrate fluency, efficiency, speed, and quality in work. You can be counted on to deliver well on work similar to past work.  You understand and utilize basic testing strategies. You demonstrate confidence with one or two technology platforms. | |
+| **Troubleshooting** | **Individual Troubleshooter** <br> You are able to diagnose many issues in your own code. You effectively ask questions, and for help and support when needed. You can act on feedback to improve your code. | **Effective Troubleshooter** <br> You are able to diagnose problems in your own or others' code using a number of troubleshooting techniques and tools.<br> You are confident soliciting reprexes from end users. |  |
+| **Documentation** | **Documentation Contributor** <br> You know the principles of good documentation. You review existing documentation and make changes or provide feedback to improve the quality of the documentation. | **Good Documenter** <br> You consistently document features and code that you're working on. Your documentation is clear and concise and is of real assistance to later developers. | **Guide Builder** <br> You create and maintain documentation for multiple packages. Your documentation is user-centered and provides 'how tos' along with feature descriptions.  If submitting to CRAN, your vignettes are clear, useful, and meet user needs.<br> You create and maintain documentation for an ecosystem and/or set of related packages. Your documentation is used widely in teaching and learning.  |  
+| **OS Maintainer** | **Package Contributor** <br> You contribute to open source packages. You are able to answer some questions from users in github issues and PRs. You provide feedback on packages, installation and ease-of-use to other developers.  | **Package Maintainer** <br> You understand the process of updating and delivering new versions of the packages you are working on.  You understand how merging and branching is handled, as well as the basic release process.  |   |

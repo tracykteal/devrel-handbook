@@ -64,9 +64,13 @@ website:
               - first-month.qmd
               - first-90-days.qmd
               - first-project.qmd
-          - section: "DevRel Rubric"
+          - section: "Career Skills"
             contents:
-              - about-rubric.qmd
+              - about_career_skills.qmd
+              - devrel_communications.qmd
+              - devrel_product.qmd
+              - devrel_engineering.qmd
+              - devrel_leadership.qmd
       - about.qmd
 format:
   html:

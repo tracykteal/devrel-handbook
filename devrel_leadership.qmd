@@ -1,0 +1,59 @@
+---
+title: "Career Leadership"
+description: Draft
+date: ''
+---
+
+<table class="my-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Established</th>
+      <th>Advanced</th>
+      <th>Expert</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Teaming</b></td> <td><div class="pill-container yellow">Psychological Safety</div></td>
+      <td><div class="pill-container green">Organize To Learn</div></td>
+      <td><div class="pill-container blue">Management Track</div></td>
+    </tr>
+    <tr>
+      <td><b></b></td>
+      <td><div class="pill-container yellow">Engaged Team Member</div></td>
+      <td><div class="pill-container green">Cross-Team Collaboration</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Impact Mindset</b></td>
+      <td><div class="pill-container yellow">Follow Through</div></td>
+      <td><div class="pill-container green">Deliver Outcomes</div></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Mentoring</b></td>
+      <td></td>
+      <td><div class="pill-container green">Onboarding and Mentoring</div></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
+<div class="box">
+  <ul>
+    <li>**Established**:  All OS developer advocates and developer educators will demonstrate or quickly grow into established expertise in these important areas. </li>
+    <li>**Advanced**: All OS developer advocates and developer educators will develop multiple advanced skills over time. It is _not_ expected any single individual master all advanced skills, but rather to build a portfolio of advanced skills that fits their own professional goals and their team's needs.</li>
+    <li>**Expert**: Posit developer advocates and developer educators who demonstrate expert mastery of skills will be rare, and these are intended to identify truly exceptional proficiency.</li>
+  </ul>
+</div>
+<br>
+
+| Skill/Aptitude | Established | Advanced | Expert |
+|---------|:---------------------|:----------------|:----------------|
+| **Teaming** | **Psychology Safety** <br> You are aware of psychological safety as an important foundation to team performance and work to maintain safety on your team(s). | **Organize to Learn** <br> You promote psychological safety by facilitating team spaces to create safety from the fear of taking interpersonal risks. You take active measures to help destigmatize failure, recognizing it as a necessary part of learning and growing as an individual and a team. You are aware of fixed and growth mindsets and work to communicate in a style that supports a growth mindset and promote work that supports it. | **Management Track** <br> Expert level leadership moves individuals to the management track which is in active development.
+| | **Engaged Team Member** <br> You are an engaged member of a team, actively and positively participating in appropriate meetings and activities.| **Cross-Team Collaboration** <br> You engage in practices and approaches for aligning multiple teams toward common goals. |  <br>  |
+| **Ownership Mindset** | **Follow Through** <br> You take ownership not just of completing your work but ensuring it is successfully delivered and meets the needs it was built to address. | **Deliver Outcomes** <br> You actively take ownership not just of your own work, but look across your team and across teams when more complex solutions are delivered.  You work to ensure all parts of the solution work together to meet the need and never accept "well my part works" and move on.  |  |
+| | | **Decision Making Strategies & Consensus Building** <br> At the team level, you have practiced approaches to exploring, evaluating, and executing on a given plan or strategy. This can be helping a team adopt a new practice or technology or orchestrating a contentious team level decision |  |
+| **Mentoring and Boosting Others** |  | **Onboarding & Mentoring Others** <br> You actively help onboard new team members.<br> You act as a mentor to others on your team or on other teams, helping them learn and achieve their goals.<br> You do this with sensitivity and a thoughtful approach which maximizes their growth.  | |

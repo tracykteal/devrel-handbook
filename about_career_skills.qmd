@@ -1,5 +1,5 @@
 ---
-title: "About DevRel Rubric"
+title: "About Career Skills"
 description: Active
 date: ''
 ---

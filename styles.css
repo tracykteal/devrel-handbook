@@ -215,5 +215,166 @@
       border: none;
     }
     
-    
+
+(base) tracyteal@tamarack code % git config --global                        
+usage: git config [<options>]
+
+Config file location
+    --global              use global config file
+    --system              use system config file
+    --local               use repository config file
+    --worktree            use per-worktree config file
+    -f, --file <file>     use given config file
+    --blob <blob-id>      read config from given blob object
+
+Action
+    --get                 get value: name [value-pattern]
+    --get-all             get all values: key [value-pattern]
+    --get-regexp          get values for regexp: name-regex [value-pattern]
+    --get-urlmatch        get value specific for the URL: section[.var] URL
+    --replace-all         replace all matching variables: name value [value-pattern]
+    --add                 add a new variable: name value
+    --unset               remove a variable: name [value-pattern]
+    --unset-all           remove all matches: name [value-pattern]
+    --rename-section      rename section: old-name new-name
+    --remove-section      remove a section: name
+    -l, --list            list all
+    --fixed-value         use string equality when comparing values to 'value-pattern'
+    -e, --edit            open an editor
+    --get-color           find the color configured: slot [default]
+    --get-colorbool       find the color setting: slot [stdout-is-tty]
+
+Type
+    -t, --type <type>     value is given this type
+    --bool                value is "true" or "false"
+    --int                 value is decimal number
+    --bool-or-int         value is --bool or --int
+    --bool-or-str         value is --bool or string
+    --path                value is a path (file or directory name)
+    --expiry-date         value is an expiry date
+
+Other
+    -z, --null            terminate values with NUL byte
+    --name-only           show variable names only
+    --includes            respect include directives on lookup
+    --show-origin         show origin of config (file, standard input, blob, command line)
+    --show-scope          show scope of config (worktree, local, global, system, command)
+    --default <value>     with --get, use default value when missing entry
+
+(base) tracyteal@tamarack code % git config --global --list
+credential.helper=osxkeychain
+user.email=tkteal@gmail.com
+user.name=Tracy Teal
+http.postbuffer=157286400
+init.defaultbranch=main
+(base) tracyteal@tamarack code % cd ..
+(base) tracyteal@tamarack Documents % cd git/upstream 
+(base) tracyteal@tamarack upstream % ls devrel 
+_publish.yml		education-edu.qmd	onboarding.qmd
+_quarto.yml		first-90-days.qmd	personas.qmd
+_site			first-day.qmd		principles.qmd
+about.qmd		first-month.qmd		readme.md
+agreements.qmd		first-project.qmd	release-planning.qmd
+analytics.qmd		forecasting.qmd		rsconnect
+architecture.qmd	index.qmd		standards.qmd
+blog-posts.qmd		integrations.qmd	styles.css
+cheatsheets.qmd		issue-harvesting.qmd	team.qmd
+ci-log.qmd		knowledge-base.qmd	testing.qmd
+communications.qmd	links.ejs		user-journeys.qmd
+developing.qmd		listing.yml		videos.qmd
+devrel.Rproj		meetings.qmd
+dor.qmd			mission.qmd
+(base) tracyteal@tamarack upstream % cd devrel 
+(base) tracyteal@tamarack devrel % git pull
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 2), reused 2 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 1.16 KiB | 36.00 KiB/s, done.
+From https://github.com/tidyverse/devrel
+ * [new branch]      ccr-fix    -> origin/ccr-fix
+Already up to date.
+(base) tracyteal@tamarack devrel % ls
+_publish.yml		education-edu.qmd	onboarding.qmd
+_quarto.yml		first-90-days.qmd	personas.qmd
+_site			first-day.qmd		principles.qmd
+about.qmd		first-month.qmd		readme.md
+agreements.qmd		first-project.qmd	release-planning.qmd
+analytics.qmd		forecasting.qmd		rsconnect
+architecture.qmd	index.qmd		standards.qmd
+blog-posts.qmd		integrations.qmd	styles.css
+cheatsheets.qmd		issue-harvesting.qmd	team.qmd
+ci-log.qmd		knowledge-base.qmd	testing.qmd
+communications.qmd	links.ejs		user-journeys.qmd
+developing.qmd		listing.yml		videos.qmd
+devrel.Rproj		meetings.qmd
+dor.qmd			mission.qmd
+(base) tracyteal@tamarack devrel % cd ..
+(base) tracyteal@tamarack upstream % cd ../fork/OSCareerRubric 
+(base) tracyteal@tamarack OSCareerRubric % ls
+OSRubric-main.Rproj		devrel_engineering.qmd
+README.md			devrel_leadership.qmd
+_publish.yml			devrel_product.qmd
+_quarto.yml			engineering.qmd
+_site				images
+about.qmd			index.qmd
+advancement.qmd			leadership.qmd
+archetypes.qmd			links.ejs
+communications.qmd		listing.yml
+devrel_advancement.qmd		philosophy.qmd
+devrel_archetypes.qmd		product.qmd
+devrel_communications.qmd	rsconnect
+devrel_education.qmd		styles.css
+(base) tracyteal@tamarack OSCareerRubric % quarto preview
+Preparing to preview
+
+Watching files for changes
+Browse at http://localhost:3254/
+GET: /
+GET: /devrel_advancement.html
+GET: /
+GET: /devrel_archetypes.html
+GET: /
+GET: /devrel_communications.html
+GET: /
+^C%                                                                                (base) tracyteal@tamarack OSCareerRubric % ls
+OSRubric-main.Rproj		devrel_engineering.qmd
+README.md			devrel_leadership.qmd
+_publish.yml			devrel_product.qmd
+_quarto.yml			engineering.qmd
+_site				images
+about.qmd			index.qmd
+advancement.qmd			leadership.qmd
+archetypes.qmd			links.ejs
+communications.qmd		listing.yml
+devrel_advancement.qmd		philosophy.qmd
+devrel_archetypes.qmd		product.qmd
+devrel_communications.qmd	rsconnect
+devrel_education.qmd		styles.css
+(base) tracyteal@tamarack OSCareerRubric % less devrel_communications.qmd 
+(base) tracyteal@tamarack OSCareerRubric % less styles.css 
+(base) tracyteal@tamarack OSCareerRubric % less styles.css
+
+}
+
+.my-table td .pill-container.blue {
+  background-color: #CEE5ED;
+  color: #0c2461;
+}
+
+.box {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.box ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
     
