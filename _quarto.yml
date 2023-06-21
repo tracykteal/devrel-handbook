@@ -26,6 +26,8 @@ website:
       center:
         - text: "About"
           href: about.qmd
+        - text: "This work is licensed under a Creative Commons Attribution 4.0 International License"
+          href: http://creativecommons.org/licenses/by/4.0/
       right:
         - icon: github
           href: https://github.com/tracykteal/devrel-handbook

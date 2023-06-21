@@ -13,3 +13,5 @@ This handbook template was developed by Mara Averick, Mine Cetinkaya-Rundel, Gre
 
 The format and categories are adapted from the Quarto Team Handbook developed by Al Manning. 
 The career rubric information is adapted from work done by Al Manning, Andrew Holz, Tracy Teal, Mara Averick and Andy Teucher. 
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
